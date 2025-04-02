@@ -109,7 +109,7 @@ export default function Contact() {
                     <p><a href="tel:+919499220094" className="underline">+91-9499220094</a></p>
                 </div>
                 <p className="mt-4">
-                  🌍 Website: <space></space>  
+                  🌍 Website:  
                     <a href="https://rescuefederation.com/" target="_blank" rel="noopener noreferrer" className="text-white underline">
                          rescuefederation.com
                     </a>
